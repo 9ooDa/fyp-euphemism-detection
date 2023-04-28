@@ -64,9 +64,9 @@ Input files:
 
 ### 5. Euphemistic word detection with BERT MLM
 In this stage, you will be able to detect the euphemistic words with the pre-trained BERT model. 
-The output will look like the picture below.
+The output will look like the picture below, and the bolded words are true positives.
 
-![Output](/Users/dayeonku/Desktop/CityU/fyp-git/mlm_output.png)
+![Output](https://github.com/9ooDa/fyp-euphemism-detection/blob/main/mlm_output.png)
 
 Input files:
 - vocab.txt
