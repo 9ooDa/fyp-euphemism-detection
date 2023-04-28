@@ -5,6 +5,8 @@ text/
 # python environment
 fyp-dev/
 .ipynb_checkpoints
+.DS_Store
+.gitattribute 
 
 # for presentation
 pic/
@@ -14,3 +16,4 @@ Interim Report.pdf
 
 # reference
 reference.ipynb
+data_helper.py
