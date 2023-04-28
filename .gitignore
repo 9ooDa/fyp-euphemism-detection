@@ -1,0 +1,16 @@
+# data files
+data/
+text/
+
+# python environment
+fyp-dev/
+.ipynb_checkpoints
+
+# for presentation
+pic/
+Final Presentation.pdf
+final_report.pdf
+Interim Report.pdf
+
+# reference
+reference.ipynb
